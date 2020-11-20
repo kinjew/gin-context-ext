@@ -1,5 +1,5 @@
-module git.sprucetec.com/meigo/gin-context-ext
+module github.com/kinjew/gin-context-ext
 
-go 1.12
+go 1.15
 
-require github.com/gin-gonic/gin v1.4.0
+require github.com/gin-gonic/gin v1.6.0
